@@ -1,3 +1,44 @@
+Metadata-Version: 2.1
+Name: Pyrogram
+Version: 1.2.11
+Summary: Telegram MTProto API Client Library and Framework for Python
+Home-page: https://github.com/pyrogram
+Author: Dan
+Author-email: dan@pyrogram.org
+License: LGPLv3+
+Download-URL: https://github.com/pyrogram/pyrogram/releases/latest
+Project-URL: Tracker, https://github.com/pyrogram/pyrogram/issues
+Project-URL: Community, https://t.me/Pyrogram
+Project-URL: Source, https://github.com/pyrogram/pyrogram
+Project-URL: Documentation, https://docs.pyrogram.org
+Keywords: telegram chat messenger mtproto api client library python
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Natural Language :: English
+Classifier: License :: OSI Approved :: GNU Lesser General Public License v3 or later (LGPLv3+)
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: Implementation
+Classifier: Programming Language :: Python :: Implementation :: CPython
+Classifier: Programming Language :: Python :: Implementation :: PyPy
+Classifier: Topic :: Internet
+Classifier: Topic :: Communications
+Classifier: Topic :: Communications :: Chat
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Libraries :: Application Frameworks
+Requires-Python: ~=3.6
+Description-Content-Type: text/markdown
+License-File: COPYING
+License-File: COPYING.lesser
+License-File: NOTICE
+
 <p align="center">
     <a href="https://github.com/pyrogram/pyrogram">
         <img src="https://i.imgur.com/BOgY9ai.png" alt="Pyrogram">
@@ -73,3 +114,5 @@ pip3 install pyrogram
 
 - Copyright (C) 2017-2021 Dan <<https://github.com/delivrance>>
 - Licensed under the terms of the [GNU Lesser General Public License v3 or later (LGPLv3+)](COPYING.lesser)
+
+
